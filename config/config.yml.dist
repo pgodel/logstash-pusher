@@ -1,0 +1,2 @@
+redis: tcp://localhost:6379
+redis_key: logstash_test

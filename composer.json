@@ -1,0 +1,16 @@
+{
+    "name": "pgodel/logstash-pusher",
+    "description": "CLI tool to send data to logstash through redis",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pablo Godel",
+            "email": "pgodel@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "0.8.*@dev",
+        "symfony/yaml": "v2.3.6",
+        "symfony/console": "v2.3.6"
+    }
+}
