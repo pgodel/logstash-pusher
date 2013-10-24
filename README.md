@@ -1,7 +1,7 @@
 logstash-pusher
 ===============
 
-CLI tool to send data to logstash through redis
+CLI tool to send messages to logstash through redis
 
 
 Installation
